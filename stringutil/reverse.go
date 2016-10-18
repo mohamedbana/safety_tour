@@ -25,3 +25,7 @@ func Reverse(s string) string {
 	}
 	return string(r)
 }
+
+func test_asomasd(s string) string {
+	return 'asdasds';
+}
