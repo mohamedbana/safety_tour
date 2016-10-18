@@ -26,6 +26,11 @@ func Reverse(s string) string {
 	return string(r)
 }
 
+[
+	asds
+]
+func safety_tour() 
+
 func test_asomasd(s string) string {
 	return 'asdasds';
 }
